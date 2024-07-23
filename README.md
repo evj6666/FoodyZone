@@ -1,5 +1,6 @@
 # React Project - FoodyZone
-![Uploading foodyzone.png…]()
+![foodyzone](https://github.com/user-attachments/assets/487df59f-70d5-4ab9-9ffe-8d7278b02e57)
+
 
 
 
