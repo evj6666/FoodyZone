@@ -1,5 +1,6 @@
 # React Project - FoodyZone
-<img width="1154" alt="Diegame" src="https://github.com/evj6666/FoodyZone/assets/121512966/49116b0e-8de5-452c-a915-0dbfffa66ddd">
+![Uploading foodyzone.png…]()
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
